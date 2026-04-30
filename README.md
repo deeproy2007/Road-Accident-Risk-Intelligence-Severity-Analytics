@@ -201,12 +201,4 @@ SOURCE road_accident_analysis.sql;
 
 ---
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome. Please open an issue before submitting a pull request.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See `LICENSE` for details.
