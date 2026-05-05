@@ -150,12 +150,7 @@ CREATE INDEX idx_state_year ON road_accident(State_Name, Year);
 
 
 
-### Setup
 
-```sql
--- 1. Create your database
-CREATE DATABASE road_accident_db;
-USE road_accident_db;
 
 -- 2. Import the dataset
 --    Use MySQL Workbench's Table Data Import Wizard, or:
