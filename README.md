@@ -191,6 +191,9 @@ SOURCE road_accident_analysis.sql;
 | How can I generate a repeatable state-level report? | Stored Procedure |
 
 ---
+## 👤 Author
+**Deep Roy**  
+Aspiring Data Analyst  
 
 ## 📈 Potential Extensions
 
