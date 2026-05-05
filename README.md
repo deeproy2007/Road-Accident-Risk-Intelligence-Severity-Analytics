@@ -146,24 +146,6 @@ A composite index on `(State_Name, Year)` is created to optimize the most common
 
 ```sql
 CREATE INDEX idx_state_year ON road_accident(State_Name, Year);
-```
-
-
-
-
-
--- 2. Import the dataset
---    Use MySQL Workbench's Table Data Import Wizard, or:
-LOAD DATA INFILE '/path/to/road_accident.csv'
-INTO TABLE road_accident
-FIELDS TERMINATED BY ','
-ENCLOSED BY '"'
-LINES TERMINATED BY '\n'
-IGNORE 1 ROWS;
-
--- 3. Run the analysis script
-SOURCE road_accident_analysis.sql;
-```
 
 ---
 
