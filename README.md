@@ -148,14 +148,7 @@ A composite index on `(State_Name, Year)` is created to optimize the most common
 CREATE INDEX idx_state_year ON road_accident(State_Name, Year);
 ```
 
----
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- MySQL 8.0+ (window functions and CTEs required)
-- A MySQL client: MySQL Workbench, DBeaver, or CLI
 
 ### Setup
 
