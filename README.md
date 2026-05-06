@@ -170,7 +170,7 @@ Aspiring Data Analyst
 - Connect to a BI tool (Power BI / Tableau) for dashboard visualizations
 - Add a Python EDA layer using `pandas` and `seaborn` for visual profiling
 - Incorporate population data to compute per-capita accident rates by state
-- Build a machine learning model to predict accident severity from contextual features
+
 
 ---
 
