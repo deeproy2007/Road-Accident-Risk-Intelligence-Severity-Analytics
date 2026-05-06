@@ -165,7 +165,7 @@ CREATE INDEX idx_state_year ON road_accident(State_Name, Year);
 **Deep Roy**  
 Aspiring Data Analyst  
 
-## 📈 Potential Extensions
+
 
 
 
