@@ -21,10 +21,10 @@ Road accidents are a critical public safety concern. This project applies struct
 
 ```
 road-accident-analytics/
-│
+├── README.md                        # Project documentation
+├── Strategic risk(pdf)
 ├── road_accident.csv                # Raw dataset (1,565 records, 22 features)
-├── road_accident_analysis.sql       # Core analytics queries and schema
-└── README.md                        # Project documentation
+└── road_accident_analysis.sql       # Core analytics queries and schema
 ```
 
 ---
