@@ -159,9 +159,12 @@ CREATE INDEX idx_state_year ON road_accident(State_Name, Year);
 | What state-time-weather combos are highest risk? | Condition Modeling |
 | How can I generate a repeatable state-level report? | Stored Procedure |
 
+```
 ---
-## 👤 Author
-**Deep Roy**  
-Data Analyst  
+Author
+Deep Roy
+Data Analyst
+
+
 
 
