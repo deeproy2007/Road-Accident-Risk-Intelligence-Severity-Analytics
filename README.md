@@ -85,9 +85,10 @@ SELECT *,
     ELSE 'Night'
   END AS time_bucket
 FROM road_accident;
-```
 Analysis:
 This view makes calculation more easy and simple
+```
+
 ---
 
 ### 2. Trend Analysis — Year-over-Year Growth
