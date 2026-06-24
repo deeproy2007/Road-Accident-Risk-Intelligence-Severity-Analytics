@@ -9,7 +9,7 @@ A SQL-based analytics project focused on identifying accident trends, geographic
 Road Accidents are a critical public safety concern. This project applies structured SQL analytics to a road accident dataset to surface actionable insights for policymakers, traffic authorities, Police force, and researchers.
 
 **Core Objectives:**
-- Detect year-over-year accident trends to evaluate policy effectiveness
+- Detect YOY accident trends to evaluate policy effectiveness
 - Model geographic risk concentration using cumulative state-level analysis
 - Assess fatality ratios across states to identify high-lethality zones
 - Profile high-risk conditions by combining state, time-of-day, and weather factors
