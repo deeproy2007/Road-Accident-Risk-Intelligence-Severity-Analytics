@@ -86,7 +86,7 @@ SELECT *,
   END AS time_bucket
 FROM road_accident;
 Analysis:
-This view makes calculation more easy and simple
+This view makes calculation more easy and more simple
 ```
 
 ---
