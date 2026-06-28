@@ -4,7 +4,7 @@ A SQL-based analytics project focused on identifying accident trends, geographic
 
 ---
 
-## 📌 Project Overview
+## 📌 Project overview
 
 Road Accidents are a critical public safety concern. This project applies structured SQL analytics to a road accident dataset to surface actionable insights for policymakers, traffic authorities, Police force, and researchers.
 
