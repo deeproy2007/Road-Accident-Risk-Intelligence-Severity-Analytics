@@ -12,7 +12,7 @@ Road accidents are a critical public safety concern. This project applies struct
 - Detect YOY accident trends to evaluate policy effectiveness
 - Model geographic risk concentration using cumulative state-level analysis
 - Assess fatality ratios across states to identify high-lethality zones
-- Profile high-risk conditions by combining state, time-of-day, and weather factors
+- Profile High-Risk conditions by combining state, time-of-day, and weather factors
 - Enable repeatable, parameterized state-level reporting via Stored Procedures
 
 ---
