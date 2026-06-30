@@ -13,7 +13,7 @@ Road accidents are a critical public safety concern. This project applies struct
 - Model geographic risk concentration using cumulative state-level analysis
 - Assess fatality ratios across states to identify high-lethality zones
 - Profile high-risk conditions by combining state, time-of-day, and weather factors
-- Enable repeatable, parameterized state-level reporting via stored procedures
+- Enable repeatable, parameterized state-level reporting via Stored procedures
 
 ---
 
