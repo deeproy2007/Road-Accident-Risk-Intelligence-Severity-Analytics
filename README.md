@@ -95,7 +95,7 @@ This view makes calculation more easy and more simple
 
 Calculates annual accident counts and YoY change using window functions to measure whether road safety policies are having a measurable impact.
 
-**Key metric:** `yoy_growth_pct` — percentage change in accidents from the previous year.
+**Key Metric:** `yoy_growth_pct` — percentage change in accidents from the previous year.
 
 ---
 
