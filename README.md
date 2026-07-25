@@ -32,7 +32,7 @@ road-accident-analytics/
 
 | Property | Details |
 |---|---|
-| **Records** | 1,565 accident records |
+| **Records** | 1,565 Accident Records |
 | **Time Span** | 2018 – 2023 |
 | **Geographic Coverage** | 32 Indian States |
 | **Severity Classes** | Fatal, Serious, Minor |
