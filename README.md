@@ -103,7 +103,7 @@ Calculates annual accident counts and YoY change using window functions to measu
 
 Smooths short-term fluctuations in average accident severity to reveal structural risk increases or improvements over time.
 
-**Key metric:** `rolling_3yr_severity` — a 3-year window average of severity scores.
+**Key Metric:** `rolling_3yr_severity` — a 3-year window average of severity scores.
 
 ---
 
