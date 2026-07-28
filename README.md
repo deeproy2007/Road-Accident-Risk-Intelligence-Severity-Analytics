@@ -1,6 +1,6 @@
 # 🚦 Road Accident Risk Analytics
 
-In India everyone facing road problems because of road condition is too bad in India and lack of signal. 
+In India everyone facing road problems because of road condition is too bad in India and lack of signal. that's why accidents are very high in India. Keeping these problems in mind 
 ---
 
 ## 📌 Project Overview
