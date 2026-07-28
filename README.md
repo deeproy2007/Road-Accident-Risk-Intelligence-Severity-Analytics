@@ -1,7 +1,6 @@
 # 🚦 Road Accident Risk Analytics
 
-A SQL-based analytics project focused on identifying accident trends, geographic risk concentration, and high-severity factors across Indian states from 2018 to 2023.
-
+In India everyone facing road problems because of road condition is too bad in India and lack of signal. 
 ---
 
 ## 📌 Project Overview
